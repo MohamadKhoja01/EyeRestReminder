@@ -145,3 +145,7 @@ public class AudioMonitor : IMMNotificationClient
     public void OnDeviceStateChanged(string deviceId, DeviceState newState) { }
     public void OnPropertyValueChanged(string pwstrDeviceId, PropertyKey key) { }
 }
+
+// EyeRestReminder
+// Copyright (c) 2025 Mohamad Khoja
+// All rights reserved.

@@ -31,3 +31,7 @@ public static class InputTimer
         return 0;
     }
 }
+
+// EyeRestReminder
+// Copyright (c) 2025 Mohamad Khoja
+// All rights reserved.

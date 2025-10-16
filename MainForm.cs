@@ -431,3 +431,7 @@ namespace EyeRestReminder
         }
     }
 }
+
+// EyeRestReminder
+// Copyright (c) 2025 Mohamad Khoja
+// All rights reserved.
